@@ -1,0 +1,21 @@
+body{
+    background-image: url("background.jpg");
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 2px 2px 7px grey;
+    border-style: inset ;
+    border-width: 5px ;
+    border-radius: 9px ;
+}
